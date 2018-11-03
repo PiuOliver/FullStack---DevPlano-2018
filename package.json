@@ -1,0 +1,25 @@
+{
+  "name": "fullstack",
+  "version": "1.0.0",
+  "description": "Curso de FullStack DevPlano 2018 - 2 Semestre",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PiuOliver/FullStack---DevPlano-2018.git"
+  },
+  "author": "Gabriel de Oliveira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PiuOliver/FullStack---DevPlano-2018/issues"
+  },
+  "homepage": "https://github.com/PiuOliver/FullStack---DevPlano-2018#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
